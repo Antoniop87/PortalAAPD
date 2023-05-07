@@ -39,7 +39,7 @@ const Inscricao = () => {
                         </div>
                     </Carousel>
                     <h3 className="text-center font-semibold text-sm sm:text-lg">Venha participar deste grande evento do atletismo master!</h3>
-                    <p className="text-center text-sm">Vem aí a primeira COPA PERNAMBUCO DE ATLETISMO MASTER.<br/> Faça sua inscrição e participe desse <br /> grande evento que conta com a realização da AAPD e ajni eventos.</p>
+                    <p className="text-center text-sm">Vem aí a 1a Copa Pernambuco de Atletismo Master. <br/> Faça sua inscrição e participe desse grande evento realizado pela @aapd.pe e ajnieventos.</p>
                     <p className="text-center font-bold text-sm sm:text-md m-2 ">LEIA ATENTAMENTE O REGULAMENTO ANTES <br /> DE FAZER A INSCRICAO, APÓS LER <br /> O REGULAMENTO ENTRE NA OPÇÃO DE INSCRIÇÃO <br /> NO TOPO DESTA PÁGINA E FAÇA A INSCRIÇÃO.</p>
                 </div>
             </div>
