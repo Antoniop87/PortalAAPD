@@ -15,7 +15,7 @@ const Inscricao = () => {
             <Header />
             <div>
                 <div className="w-screen bg-blue-400 flex justify-center items-center text-center p-2">
-                    <a className="text-white hover:text-gray-600 m-2" href="/pdfs/regulamento 1 copa pernambuco atletismo master.docx" download>REGULAMENTO</a>
+                    <a className="text-white hover:text-gray-600 m-2" href="/pdfs/regulamento 1 copa pernambuco de atletismo master.pdf" download>REGULAMENTO</a>
                     <a className="text-white hover:text-gray-600" href="https://forms.gle/LSQYDSBtx6dxAieL9">INSCRIÇÃO</a>
                 </div>
                 <div className="flex flex-col justify-center items-center m-2 p-0">
