@@ -30,13 +30,13 @@ const Brasileiro = () => {
                         className="w-72 sm:w-96" // para fazer as imagens ocuparem toda a largura da tela e a altura da tela
                     >
                         <div>
-                            <img src="./imgs/fotocarousel1.jpg" alt="Imagem 1" />
+                            <img src="./imgs/brasileiro5.jpeg" alt="Imagem 1" />
                         </div>
                         <div>
-                            <img src="./imgs/fotocarousel2.jpg" alt="Imagem 2" />
+                            <img src="./imgs/brasileiro3.jpeg" alt="Imagem 2" />
                         </div>
                         <div>
-                            <img src="/imgs/fotocarousel.jpg" alt="Imagem 3" />
+                            <img src="/imgs/brasileiro4.jpeg" alt="Imagem 3" />
                         </div>
                     </Carousel>
                     <h3 className="text-center font-semibold text-sm sm:text-lg">Venha participar deste grande evento do atletismo master!</h3>
