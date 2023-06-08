@@ -16,7 +16,7 @@ const Brasileiro = () => {
             <Header />
             <div>
                 <div className="w-screen bg-red-400 flex justify-center items-center text-center p-2">
-                    <a className="text-white hover:text-gray-600 m-2" href="/pdfs/REGULAMENTO DO CAMPEONATO BRASILEIRO MASTER.pdf" download>REGULAMENTO</a>
+                    <a className="text-white hover:text-gray-600 m-2" href="/pdfs/REGULAMENTO DO CAMPEONATO BRASILEIRO MASTER (3).pdf" download>REGULAMENTO</a>
                     <a className="text-white hover:text-gray-600" href="https://forms.gle/uazRodSo2X2id7QR7">INSCRIÇÃO</a>
                 </div>
                 <div className="flex flex-col justify-center items-center m-2 p-0">
