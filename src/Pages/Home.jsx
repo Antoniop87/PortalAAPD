@@ -14,11 +14,6 @@ const Home = () => {
         <div>
             <Header />
             <div className="flex flex-col justify-center items-center text-center m-2">
-                <h1 className=" sm:text-2xl font-semibold">1ª COPA PERNAMBUCO ATLETISMO MASTER</h1>
-                <img className="h-auto w-auto sm:h-1/2 sm:w-1/2 shadow-2xl" src="/imgs/copamaster.jpeg" />
-                <Link to={"/Copa"} className="text-xl bg-blue-400 p-2 m-2 rounded text-white hover:bg-blue-500" href="">saiba mais</Link>
-            </div>
-            <div className="flex flex-col justify-center items-center text-center m-2">
                 <h1 className="sm:text-2xl font-semibold">CAMPEONATO BRASILEIRO DE ATLETISMO MASTER</h1>
                 <img className="h-auto w-auto sm:h-96 sm:w-96 shadow-2xl" src="/imgs/brasileiro.jpeg" />
                 <Link to={"/Brasileiro"} className="text-xl bg-blue-400 p-2 m-2 rounded text-white hover:bg-blue-500" href="">saiba mais</Link>
