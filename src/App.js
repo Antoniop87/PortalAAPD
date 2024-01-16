@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from './Pages/Home'
 import './dist/output.css'
 import Contato from './Pages/Contato';
-import Brasileiro from './Pages/Brasileiro'
+import Noticia1 from './Pages/Noticia1'
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Home/>}/>
           <Route path='/Contato' element={<Contato/>}/>
-          <Route path='/Brasileiro' element={<Brasileiro/>}/>
+          <Route path='/Noticia1' element={<Noticia1/>}/>
         </Routes>
       </Router>
     </div>
